@@ -1,3 +1,21 @@
+****ToDo****
+
+17.12.12 from teacher
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Visual DNN Planner
 
 This repo generates path proposal labels from LIDAR pointclouds, pose estimates and mono images. The labels can be used to train a CNN autoencoder to propose valid path for autonomous car applications. It is based on the the following work:
